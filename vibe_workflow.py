@@ -44,6 +44,10 @@ AI_RULES_TEMPLATES = {
     "claude": """# CLAUDE.md - AI Development Rules
 
 # IMPORTANT:
+# Think as long as needed to get this right, I am not in a hurry.
+# What matters is that you follow precisely what I ask you and execute it perfectly.
+# Ask me questions if I am not precise enough.
+#
 # Always read memory-bank/architecture.md before writing any code. Include entire database schema.
 # Always read memory-bank/{design_doc} before writing any code.
 # After adding a major feature or completing a milestone, update memory-bank/architecture.md.
@@ -86,6 +90,10 @@ AI_RULES_TEMPLATES = {
     "codex": """# Agents.md - Codex CLI Development Rules
 
 # IMPORTANT:
+# Think as long as needed to get this right, I am not in a hurry.
+# What matters is that you follow precisely what I ask you and execute it perfectly.
+# Ask me questions if I am not precise enough.
+#
 # Always read memory-bank/architecture.md before writing any code. Include entire database schema.
 # Always read memory-bank/{design_doc} before writing any code.
 # After adding a major feature or completing a milestone, update memory-bank/architecture.md.
@@ -128,6 +136,10 @@ AI_RULES_TEMPLATES = {
     "generic": """# AI Development Rules
 
 # IMPORTANT:
+# Think as long as needed to get this right, I am not in a hurry.
+# What matters is that you follow precisely what I ask you and execute it perfectly.
+# Ask me questions if I am not precise enough.
+#
 # Always read memory-bank/architecture.md before writing any code. Include entire database schema.
 # Always read memory-bank/{design_doc} before writing any code.
 # After adding a major feature or completing a milestone, update memory-bank/architecture.md.
