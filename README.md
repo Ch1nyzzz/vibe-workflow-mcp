@@ -30,6 +30,23 @@ claude mcp add vibe-workflow -- python /path/to/vibe_workflow.py
 }
 ```
 
+**Codex CLI** (`~/.codex/config.json`):
+```json
+{
+  "mcpServers": {
+    "vibe-workflow": {
+      "command": "python",
+      "args": ["/path/to/vibe_workflow.py"]
+    }
+  }
+}
+```
+
+或使用命令行添加:
+```bash
+codex mcp add vibe-workflow -- python /path/to/vibe_workflow.py
+```
+
 ## 工作流程
 
 ```
